@@ -1,0 +1,35 @@
+p{
+  font-family: Roboto, Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body{
+  margin: 0;
+  padding-top: 57px;
+  padding-left: 72px;
+  background-color: rgb(249, 249, 249);
+}
+
+a:link {
+  color: black;
+  text-decoration: solid;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+  text-decoration: solid;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+  text-decoration: solid;
+}
+
+/* selected link */
+a:active {
+  color: black;
+  text-decoration: solid;
+}
